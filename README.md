@@ -1,6 +1,6 @@
-# 🎂 一份35岁的生日礼物，
+# 🎂 一份35岁的生日礼物
 
-* from [@yinghuimeng](https://github.com/yinghuimeng)
+* a gift from [@yinghuimeng](https://github.com/yinghuimeng)
 * made by [Godot Engine](https://godotengine.org/) v4.2.1
 * 感谢孟老师，超棒的生日礼物 🎁🎈
 
